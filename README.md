@@ -1,2 +1,2 @@
 # ToDoApplication
-SpringBoot Project for tasks listdown
+SpringBoot Project for daily task management
